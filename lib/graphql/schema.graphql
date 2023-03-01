@@ -74,4 +74,5 @@ input MessageContentInput {
 enum ModelSortDirection {
 	ASC
 	DESC
+	SSSS
 }

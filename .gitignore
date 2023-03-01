@@ -1,6 +1,7 @@
 
 !jest.config.js
 *.d.ts
+lib/*.js
 node_modules
 !functions/postConfirmTrigger.js
 # CDK asset staging directory
